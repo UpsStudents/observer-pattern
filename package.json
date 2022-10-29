@@ -1,5 +1,5 @@
 {
-  "name": "state-pattern",
+  "name": "observer-pattern",
   "version": "1.0.0",
   "description": "",
   "main": "./src/main.ts",
